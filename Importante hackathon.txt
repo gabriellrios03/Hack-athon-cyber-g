@@ -1,0 +1,1 @@
+Recordar que nuestra maquina esta entrenada dentro de un ambiente especificio (ya que no contobamos con camara, el tiempo en el que tuvimos fue muy poco) y no de uno neutral por lo que es my posible que ala hora de ejecutar el codigo la identificacion sea mucho menos precisa
